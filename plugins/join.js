@@ -20,7 +20,7 @@ handler.tags = ['premium']
 handler.premium = false
 handler.private = true
 handler.limit = true
-handler.owner = false
+handler.owner = true
 
 handler.command = /^join$/i
 
