@@ -31,7 +31,7 @@ global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/ellla'
 global.sgc = 'https://chat.whatsapp.com/GLDpzSjcXpZIp007nLaRNy'
-global.swa = 'wa.me/6285831796696'
+global.swa = 'wa.me/84978005798'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -45,7 +45,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848'
-global.nomorown = '6285831796696'
+global.nomorown = '84978005798'
 global.namebot = 'Elaina Botzラ'
 global.nameown = 'F4Q Store'
 
